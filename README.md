@@ -12,8 +12,6 @@ Although there may be a trend that campaigns launched in May or June have the gr
 
 Next, looking at the chart Outcomes Based on Goal:
 ![Outcome Based on Goal Chart](https://github.com/edyeh1991/kickstarter-analysis/blob/master/Outcome%20Based%20on%20Goal%20Chart.png)
-The most successful kickstarters were ones with goals ranging from $45000 to $49999 with 100% of them being successful and goals ranging from $25000 to $29999 with 80% of them being successful and 20% failing. With that being said, there is only 1 campaign with a goal ranging from $45000 to $49999 in which that 1 campaign was successful. Similarly, the 80% sucess rate with campaign goals from $25000 to $29999 included only a total of 5 campaigns. Normalizing the percent outcomes to total number of projects would be most beneficial in informing our decision of target goal.
-A more reasonable estimate to tage from the given data is that out of 534 total campaigns, 72.66% of campaigns were successful with a goal ranging from $1000 to $4999.
+The most successful kickstarters were ones with goals ranging from $0 to $1000 with 75.81% of them being successful and 24.19% failing and goals ranging from $1000 to $4999 with 72.66% of them being successful and 27.34% failing. A good goal range to target would indeed be between $0 to $4999. The next step would be to look at the number of backers, their average donations and the lenght of the campaign to see if there is a trend as to whether or not the campaign was sucessful.
 
-Further analysis as to the length of the campaign or number of backers and average donation would be interesting to look at to try to determine the trends we see in these 2 charts.
 
